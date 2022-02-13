@@ -4,7 +4,9 @@
 
 欢迎萌新进入本群！ 可以一起开黑 一起背刺 一起做趴趴人
 
-以下所有文件都在927254485群文件
+以下所有文件都在927254485群文件或https://github.com/GC-ZF/French-fries-notice-bar
+
+因为群公告不能添加图片设置文字属性，所以使用了md编写后转PDF，看着整齐一些
 
 # BFVChineseChatInput
 
@@ -18,7 +20,11 @@
 
 [原Github repo](https://github.com/moshuiD/BFVReadPlayerMessage)
 
-## 战绩查询
+# magic bullet
+
+魔法子弹 by 小张同学.exe 的源程序
+
+# 战绩查询
 
 > 网站查询  战地一和战地五通用
 
@@ -43,12 +49,6 @@
 
 * 【电脑版】战地1-5战绩查询工具v2.8.2
 
-# 关于中文设置
-
-中文设置在Origin界面的属性
-
-![](https://github.com/GC-ZF/French-fries-notice-bar/blob/main/img/%E6%B8%B8%E6%88%8F%E4%B8%AD%E6%96%87.jpg?raw=true)
-
 # 关于Origin
 
 <h2>Origin发生意料之外</h2>
@@ -67,10 +67,13 @@ https://www.dogfight360.com/blog/
 <h2>Origin申诉</h2>
 
 EA误封（开挂基本解不了）：挂梯子切换到英国找人工客服，发邮件（邮件随便一个国家就行）慢所以不建议，不要多次申请，申请一次耐心等待案件处理
+# 关于中文设置
 
+中文设置在Origin界面的属性
+
+![](https://github.com/GC-ZF/French-fries-notice-bar/blob/main/img/%E6%B8%B8%E6%88%8F%E4%B8%AD%E6%96%87.jpg?raw=true)
 # CustomCrosshair
 
 一个十字或原点固定在屏幕，算是辅助游戏的吧。Microsoft Store搜或者百度，安装包我就不放了
 
 ![](https://github.com/GC-ZF/French-fries-notice-bar/blob/main/img/CustomCrosshair.jpg?raw=true)
-
