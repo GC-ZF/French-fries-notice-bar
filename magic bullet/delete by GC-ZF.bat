@@ -1,4 +1,16 @@
 @echo off
+echo	╔═══════════════════════════════════════════════╗
+echo	║						║
+echo	║	开始清理vs工程缓存文件  不影响代码运行	║
+echo	║	作者：张时贰(CSDN)　			║
+echo	║	QQ：1310446718				║
+echo	║						║
+echo	╚═══════════════════════════════════════════════╝
+pause
+
+echo	清理完成，已删除以下文件：
+
+
 setlocal enabledelayedexpansion  
  
 for /r . %%a in (Debug) do (  
@@ -50,7 +62,7 @@ for /r . %%a in (*.sdf) do (
  )
 )
 
-::鍒犻櫎CMake cache
+::删除CMake cache
 for /r . %%a in (CMakeFiles) do (  
   if exist %%a (
   echo "delete" %%a

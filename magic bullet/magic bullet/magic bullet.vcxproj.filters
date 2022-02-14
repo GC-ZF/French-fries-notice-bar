@@ -15,7 +15,16 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="magic bullet.cpp">
+    <ClCompile Include="version1.0 magic bullet 基础版.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="version1.1 magic bullet 随机鼠标位置版.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="version1.2 magic bullet 随机鼠标位置 强制关机.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="test.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>

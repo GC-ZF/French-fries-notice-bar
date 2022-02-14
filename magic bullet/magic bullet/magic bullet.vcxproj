@@ -127,7 +127,10 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="magic bullet.cpp" />
+    <ClCompile Include="test.cpp" />
+    <ClCompile Include="version1.0 magic bullet 基础版.cpp" />
+    <ClCompile Include="version1.2 magic bullet 随机鼠标位置 强制关机.cpp" />
+    <ClCompile Include="version1.1 magic bullet 随机鼠标位置版.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
