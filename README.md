@@ -23,7 +23,7 @@
 
 一个十字或原点固定在屏幕，算是辅助游戏的吧。Microsoft Store搜或者百度，安装包我就不放了
 
-![](https://github.com/GC-ZF/French-fries-notice-bar/blob/main/img/CustomCrosshair.jpg?raw=true)
+<img height="200px" src="https://github.com/GC-ZF/French-fries-notice-bar/blob/main/img/CustomCrosshair.jpg?raw=true" />
 
 # magic bullet
 
@@ -31,7 +31,7 @@
 
 # Origin启动发生意料之外解决办法
 
-![](https://github.com/GC-ZF/French-fries-notice-bar/blob/main/img/origin%E5%8F%91%E7%94%9F%E6%84%8F%E6%96%99%E4%B9%8B%E5%A4%96.jpg?raw=true)
+<img height="300px" src="https://github.com/GC-ZF/French-fries-notice-bar/blob/main/img/origin%E5%8F%91%E7%94%9F%E6%84%8F%E6%96%99%E4%B9%8B%E5%A4%96.jpg?raw=true" />
 
 * origin载入页面时发生问题：https://m.downxia.com/zixun/43474.html
 * 运行**Origin启动发生意料之外修复脚本 by 小张同学.bat**原理与网站内的解决办法相同，只是写成了脚本，运行一下就可以了
@@ -62,7 +62,7 @@ https://www.dogfight360.com/blog/
 
 中文设置在Origin界面的属性
 
-![](https://github.com/GC-ZF/French-fries-notice-bar/blob/main/img/%E6%B8%B8%E6%88%8F%E4%B8%AD%E6%96%87.jpg?raw=true)
+<img height="300px" src="https://github.com/GC-ZF/French-fries-notice-bar/blob/main/img/%E6%B8%B8%E6%88%8F%E4%B8%AD%E6%96%87.jpg?raw=true" />
 
 # 战绩查询
 
