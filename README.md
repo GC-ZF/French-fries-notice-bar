@@ -52,11 +52,11 @@ https://www.dogfight360.com/blog/
 
 # 魔法子弹
 
-**version1.0 magic bullet 基础版.exe：**这个是基础版，如果第一步点否可以直接退出程序，自己想试的话可以试，循环弹窗而已，大概5s就点完了
+**version1.0 magic bullet 基础版.exe：** 这个是基础版，如果第一步点否可以直接退出程序，自己想试的话可以试，循环弹窗而已，大概5s就点完了
 
-**version1.1 magic bullet 随机鼠标位置版.exe：**这个是第一个的改版，鼠标会位移，所以耗时多一点
+**version1.1 magic bullet 随机鼠标位置版.exe：** 这个是第一个的改版，鼠标会位移，所以耗时多一点
 
-**version1.2 magic bullet 随机鼠标位置 强制关机.exe：**这个是第二个的改版，除了鼠标位移，执行完自动关机
+**version1.2 magic bullet 随机鼠标位置 强制关机.exe：** 这个是第二个的改版，除了鼠标位移，执行完自动关机
 
 # 游戏内中文设置方法
 
@@ -77,7 +77,7 @@ https://www.dogfight360.com/blog/
 * 微信小程序Battlefield小帮手
 * 微信小程序Battlefield Companion，附小程序微信扫码
 
-<img src="https://github.com/GC-ZF/French-fries-notice-bar/blob/main/img/Battlefield%20Companion.jpg?raw=true" style="zoom:50%;" />
+<img height="200px" src="https://github.com/GC-ZF/French-fries-notice-bar/blob/main/img/Battlefield%20Companion.jpg?raw=true" />
 
 > APP查询  
 
